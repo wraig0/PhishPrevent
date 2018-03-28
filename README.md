@@ -3,7 +3,7 @@ A chrome browser extension, to help prevent phishing attacks.
 
 ## What's happening
 
-This is a project I am currently working on, it's core functionality aim is to 
+This is a project I am currently working on, its core functionality aim is to 
 send html requests to phishtank.com, check some URLs for verified phishing and 
 respond accordingly to prevent the attack.
 
